@@ -22,3 +22,5 @@ O projeto foi construído puramente com as tecnologias base da web, sem a necess
 - **Cinzel:** Títulos elegantes e sofisticados.
 - **Great Vibes:** Detalhes e subtítulos cursivos, trazendo o tom romântico.
 - **Lora:** Corpo do texto de fácil leitura e com pegada literária.
+
+![Home do Projeto](home-autora-elis.png)
