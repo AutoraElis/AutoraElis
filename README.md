@@ -23,4 +23,4 @@ O projeto foi construído puramente com as tecnologias base da web, sem a necess
 - **Great Vibes:** Detalhes e subtítulos cursivos, trazendo o tom romântico.
 - **Lora:** Corpo do texto de fácil leitura e com pegada literária.
 
-![Home do Projeto](img/home-autora-elis.png)
+![Home do Projeto](img/home_autora_elis.png)
